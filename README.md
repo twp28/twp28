@@ -1,8 +1,20 @@
-- 👋 Hi, I’m @twp28
-- 👀 I’m interested in in front end development and integrating web3 libraries to boost the crypto space and overall sovereign handling of data which always belongs to you - and only you
-- 🌱 I’m currently learning Next.js, GraphQL, Tailwindcss, flutter, web3js, ...
-- 💞️ I’m looking to collaborate on web3 projects 
-- 📫 How to reach me ...
+# Hello, World! 👋 I'm @twp28
+I'm a passionate front-end developer with a keen interest in integrating web3 libraries to enhance the crypto space. I believe in the sovereign handling of data, advocating for a world where data belongs solely to its owner.
+
+## 🌱 Current Learning Journey
+I'm currently expanding my skills in several exciting technologies, including:
+
+- Next.js 13+
+- Prisma ORM
+- Tailwind CSS
+- Flutter for mobile applications
+- wagmi, rainbowkit, ethers for web3 
+
+## 💞️ Collaboration
+I'm actively seeking collaboration opportunities on web3 projects. If you're working on something and need a hand, or if you're interested in partnering up to create something new, I'd love to hear from you.
+
+## 📫 Get in Touch
+Feel free to reach out to me via mail twp28@gmail.com
 
 <!---
 twp28/twp28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
