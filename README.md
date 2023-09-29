@@ -1,20 +1,61 @@
-# Hello, World! 👋 I'm @twp28
-I'm a passionate front-end developer with a keen interest in integrating web3 libraries to enhance the crypto space. I believe in the sovereign handling of data, advocating for a world where data belongs solely to its owner.
+<h1 align="center">Hello, World! 👋 I'm @twp28</h1>
+<h3 align="center">A Front-End Developer Passionate About Web3 Technologies 🚀</h3>
 
-## 🌱 Current Learning Journey
-I'm currently expanding my skills in several exciting technologies, including:
+<p align="center">
+  <img src="https://img.shields.io/badge/Web3-EA8495?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
 
-- Next.js 13+
-- Prisma ORM
-- Tailwind CSS
-- Flutter for mobile applications
-- wagmi, rainbowkit, ethers for web3 
+---
 
-## 💞️ Collaboration
-I'm actively seeking collaboration opportunities on web3 projects. If you're working on something and need a hand, or if you're interested in partnering up to create something new, I'd love to hear from you.
+🌟 **About Me:**
+I’m on a mission to contribute to the development of decentralized and self-sovereign internet, advocating for a world where data belongs solely to its owner. My current focus lies in integrating advanced web3 libraries to revolutionize the crypto space. 
 
-## 📫 Get in Touch
-Feel free to reach out to me via mail twp28@gmail.com
+💡 **Interests:**
+- 🌈 Wagmi RainbowKit
+- 🦊 MetaMask
+- 📃 Smart Contracts
+- 🌐 Ethers 
+
+---
+
+🚀 **Technical Skills:**
+- 📘 **Languages:** Javascript, Typescript
+- 🖥 **Frontend:** React, Next.js, Front-end Animations
+- ⚙️ **Backend:** Prisma, Database Management
+- 📱 **Mobile:** Flutter
+- 💰 **Payments:** Stripe for Shop Payments/Subscriptions
+- 🌐 **Web3 Technologies:** Ethers, Wagmi, RainbowKit
+
+---
+
+🌱 **Current Learning Journey:**
+Expanding skills in:
+- 📘 Next.js 13+
+- 📕 Prisma ORM
+- 📗 Tailwind CSS
+- 📱 Flutter for Mobile Applications
+- 🌐 Wagmi, RainbowKit, Ethers for Web3
+
+---
+
+💞️ **Collaboration:**
+Actively seeking collaboration opportunities on web3 projects. Let’s create something revolutionary together!
+
+---
+
+📫 **Get in Touch:**
+Feel free to reach me at 📧 twxp21@gmail.com
+
+---
+
+<p align="center">
+  <i>Let’s co-create the decentralized future we all deserve 🚀</i>
+</p>
+
+
 
 <!---
 twp28/twp28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
